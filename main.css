@@ -1,0 +1,118 @@
+.bk_color {
+    background: rgba(105, 213, 255, 0.733)
+}
+
+.w-100 {
+    height: 100vh;
+}
+
+.sec-3 {
+    display: contents;
+    box-sizing: content-box;
+}
+
+.main_head_3 {
+    background-color: rgba(14, 255, 255, 0.527);
+}
+
+.heading_3 {
+    text-align: center;
+    align-items: center;
+    font-size: 1rem;
+    color: rgb(0, 108, 202);
+    font-weight: 400;
+}
+
+.Follow_now {
+    text-align: center;
+    align-items: center;
+    font-size: 1rem;
+    color: rgb(0, 108, 202);
+    font-weight: 400;
+}
+
+.lorem_para {
+    text-align: center;
+    align-items: center;
+    font-size: 1rem;
+    color: rgb(0, 108, 202);
+    font-weight: 400;
+    box-sizing: content-box;
+}
+
+.display{
+    display: flex;
+}
+
+.main_4{
+    text-align: center;
+    box-sizing: content-box;
+    background-color: rgb(180, 180, 180);
+}
+.name{
+    display: flex;
+    align-items: center;
+   margin: auto;
+}
+.custom_form{
+    width: 0;
+
+}
+.heading_4{
+    font-size: 2.5rem;
+    text-align: center;
+    color: rgb(0, 158, 221);
+}
+.form_4{
+    padding:0 25px;
+}
+
+footer{
+    box-sizing: border-box;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 2rem 0;
+}
+
+.main_footer{
+    
+    display: inline-flex;
+    padding: 10px 0;
+}
+
+.lorem_footer{
+    padding: 2px 5px;
+    font-size: 1rem;
+    box-sizing: content-box;
+    max-width: 50%;
+
+}
+.contact a{
+    display: flex;
+padding: 0 5rem;
+
+}
+a{
+    font-size: 1rem;
+    margin: auto;
+}
+i{
+    font-size: 2.5rem;
+    padding: 0 10px;
+}
+.contact{
+    text-align: center;
+    box-sizing: content-box;
+    align-items: center;
+    max-width: 50%;
+
+}
+.icons{
+    max-width: 50%;
+    box-sizing: content-box;
+    padding:  0 5%;
+}
+.copyright{
+    text-align: center;
+}
+
